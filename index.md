@@ -1,3 +1,3 @@
 This is a test!
 
-[Home](home.md)
+[Weekly Reports](weeklyreports.md)

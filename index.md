@@ -9,6 +9,6 @@ For example, we can have a new folder for every sector in secury, such as:
 
 This way we have a future proof layout and tree hierarchy that we can use to organize and store our data. 
 
-[EPICS](eburytest.github.io/EPICS/)
+[EPICS](nicholegrobler/eburytest.github.io/EPICS)
 
 [Weekly Reports](weeklyreports.md)

@@ -8,3 +8,5 @@ For example, we can have a new folder for every sector in secury, such as:
 - Blue team
 
 This way we have a future proof layout and tree hierarchy that we can use to organize and store our data. 
+
+[Weekly Reports](weeklyreports.md)

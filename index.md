@@ -11,4 +11,4 @@ This way we have a future proof layout and tree hierarchy that we can use to org
 
 [BOS IAM POlicys](docs/BOS-IAM-Policys.html)
 
-[Weekly Reports](weeklyreports.md)
+[Weekly Reports](docs/weeklyreports.html)
